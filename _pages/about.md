@@ -9,7 +9,8 @@ redirect_from:
 ---
 # About me
 
-I am a senior undergraduate student of University of Electronic Science and Technology of China. I'm interested in deep learning and its application to NLP, protein, drug, molecule and so on. Currently, I'm an intern at DP Technology working on AI for science. 
+I am a senior undergraduate student at University of Electronic Science and Technology of China. I'm interested in deep learning and its application to NLP, protein, drug, molecule and so on. Currently, I'm an intern at DP Technology working on AI for science. 
+I was fortunate to be advised by/work with Qiao Liu()
 
 
 ## Publication
@@ -29,3 +30,4 @@ Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng So
 <dd>Sep. 2019 - Jun. 2023</dd>
 <dd>B.E. in Software Engineering</dd>
 <dd>GPA: 91+/100 </dd></dl>
+

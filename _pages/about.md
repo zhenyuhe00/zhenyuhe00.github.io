@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a senior undergraduate student at University of Electronic Science and Technology of China. I'm interested in deep learning and its application to NLP, protein, drug, molecule and so on. I was a research intern at MSRA and DP Technology. Currently, I'm a remote research intern at Peking University.
+I am a first-year phd student at Peking University advised by Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. I was a research intern at MSRA and DP Technology.
 
 
 ## Publication

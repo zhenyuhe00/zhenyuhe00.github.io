@@ -19,15 +19,23 @@ Rumor Detection on Social Media with Event Augmentations <br>
 **Zhenyu He**\*, Ce Li\*, Fan Zhou, Yi Yang
 
 ## Preprint
+Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models <br>
+[[paper](https://arxiv.org/abs/2308.14149)]
+Kaiyuan Gao\*, Sunan He\*, **Zhenyu He**\*, Jiacheng Lin\*, Qizhi Pei\*, Jie Shao\*, Wei Zhang\*
+
 Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models <br>
-[\[paper\]](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)
+[[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)]
 Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Linfeng Zhang
 
 Two-Stage Neural Contextual Bandits for Personalised News Recommendation <br>
-[\[paper\]](https://arxiv.org/abs/2206.14648)
+[[paper](https://arxiv.org/abs/2206.14648)]
 Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng Soon Ong
 
 ## Education Experience
+
+<dl><dt><img align="left" width="80" height="80" hspace="10" src="images/pku.png" /></dt><dt> Peking University</dt>
+<dd>Sep. 2023 - Now</dd>
+<dd>PhD candidate</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="images/uestc.jpeg" /></dt><dt> University of Electronic Science and Technology of China</dt>
 <dd>Sep. 2019 - Jun. 2023</dd>

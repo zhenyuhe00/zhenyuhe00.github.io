@@ -14,25 +14,20 @@ I am a first-year PhD student at Peking University advised by Prof.[Di He](https
 
 ## Publication
 
-Rumor Detection on Social Media with Event Augmentations, **SIGIR 2021**(short) <br>
-[[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463001)]  [[code](https://github.com/hzy-hzy/RDEA)] <br>
+Rumor Detection on Social Media with Event Augmentations, **SIGIR 2021**(short) [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463001)]  [[code](https://github.com/hzy-hzy/RDEA)] <br>
 **Zhenyu He**\*, Ce Li\*, Fan Zhou, Yi Yang
 
 ## Preprint
-REST: Retrieval-Based Speculative Decoding <br>
-[[paper](https://arxiv.org/abs/2311.08252)] [[code](https://github.com/FasterDecoding/REST)] [[blog](https://sites.google.com/view/rest-llm/)]
+REST: Retrieval-Based Speculative Decoding, [[paper](https://arxiv.org/abs/2311.08252)] [[code](https://github.com/FasterDecoding/REST)] [[blog](https://sites.google.com/view/rest-llm/)] <br>
 **Zhenyu He**\*, Zexuan Zhong\*, Tianle Cai\*, Jason D Lee, Di He
 
-Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models <br>
-[[paper](https://arxiv.org/abs/2308.14149)]
+Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models, [[paper](https://arxiv.org/abs/2308.14149)] <br>
 Kaiyuan Gao\*, Sunan He\*, **Zhenyu He**\*, Jiacheng Lin\*, Qizhi Pei\*, Jie Shao\*, Wei Zhang\*
 
-Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models, **ICLR 2023 MLDD workshop** <br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)]
+Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models, **ICLR 2023 MLDD workshop**, [[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)] <br>
 Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Guolin Ke, Linfeng Zhang
 
-Two-Stage Neural Contextual Bandits for Personalised News Recommendation <br>
-[[paper](https://arxiv.org/abs/2206.14648)]
+Two-Stage Neural Contextual Bandits for Personalised News Recommendation, [[paper](https://arxiv.org/abs/2206.14648)] <br>
 Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng Soon Ong
 
 ## Education Experience

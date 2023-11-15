@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a first-year phd student at Peking University advised by Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. I was a research intern at MSRA and DP Technology.
+I am a first-year PhD student at Peking University advised by Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. I've interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
 
 
 ## Publication
@@ -19,12 +19,16 @@ Rumor Detection on Social Media with Event Augmentations <br>
 **Zhenyu He**\*, Ce Li\*, Fan Zhou, Yi Yang
 
 ## Preprint
+REST: Retrieval-Based Speculative Decoding <br>
+[[paper](https://arxiv.org/abs/2311.08252)] [[code](https://github.com/FasterDecoding/REST)] [[blog](https://sites.google.com/view/rest-llm/)]
+**Zhenyu He**\*, Zexuan Zhong\*, Tianle Cai\*, Jason D Lee, Di He
+
 Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models <br>
 [[paper](https://arxiv.org/abs/2308.14149)]
 Kaiyuan Gao\*, Sunan He\*, **Zhenyu He**\*, Jiacheng Lin\*, Qizhi Pei\*, Jie Shao\*, Wei Zhang\*
 
 Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models <br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)]
+[[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)]
 Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Linfeng Zhang
 
 Two-Stage Neural Contextual Bandits for Personalised News Recommendation <br>

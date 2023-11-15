@@ -14,8 +14,8 @@ I am a first-year PhD student at Peking University advised by Prof.[Di He](https
 
 ## Publication
 
-Rumor Detection on Social Media with Event Augmentations <br>
-**SIGIR 2021**(short), [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463001)]  [[code](https://github.com/hzy-hzy/RDEA)] <br>
+Rumor Detection on Social Media with Event Augmentations, **SIGIR 2021**(short) <br>
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463001)]  [[code](https://github.com/hzy-hzy/RDEA)] <br>
 **Zhenyu He**\*, Ce Li\*, Fan Zhou, Yi Yang
 
 ## Preprint
@@ -27,8 +27,8 @@ Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language,
 [[paper](https://arxiv.org/abs/2308.14149)]
 Kaiyuan Gao\*, Sunan He\*, **Zhenyu He**\*, Jiacheng Lin\*, Qizhi Pei\*, Jie Shao\*, Wei Zhang\*
 
-Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models <br>
-**ICLR 2023 MLDD workshop** [[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)]
+Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models, **ICLR 2023 MLDD workshop** <br>
+[[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)]
 Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Guolin Ke, Linfeng Zhang
 
 Two-Stage Neural Contextual Bandits for Personalised News Recommendation <br>

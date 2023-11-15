@@ -28,8 +28,8 @@ Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language,
 Kaiyuan Gao\*, Sunan He\*, **Zhenyu He**\*, Jiacheng Lin\*, Qizhi Pei\*, Jie Shao\*, Wei Zhang\*
 
 Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models <br>
-[[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)]
-Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Linfeng Zhang
+**ICLR 2023 MLDD workshop** [[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)]
+Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Guolin Ke, Linfeng Zhang
 
 Two-Stage Neural Contextual Bandits for Personalised News Recommendation <br>
 [[paper](https://arxiv.org/abs/2206.14648)]

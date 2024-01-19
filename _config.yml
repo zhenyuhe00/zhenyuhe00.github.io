@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zhenyu He (何震宇)"
   avatar           : "profile.jpg"
-  bio              : "A PhD student at Peking University"
+  bio              : "PhD student at Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=bKwkUO4AAAAJ&hl=en"
   email            : "zhenyu.h@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

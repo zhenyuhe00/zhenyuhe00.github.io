@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a first-year PhD student at Peking University advised by Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. I've interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
+I am a first-year PhD student at Peking University advised by incredible Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. I've interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
 
 
 ## Publication

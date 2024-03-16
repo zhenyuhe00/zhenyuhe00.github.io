@@ -23,6 +23,9 @@ Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Guolin Ke, Linfeng Zhang
 Rumor Detection on Social Media with Event Augmentations, **SIGIR 2021**(short) [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463001)]  [[code](https://github.com/hzy-hzy/RDEA)] <br>
 **Zhenyu He**\*, Ce Li\*, Fan Zhou, Yi Yang
 ## Preprint
+Do Efficient Transformers Really Save Computation?, arXiv 2024 [[paper](https://arxiv.org/abs/2402.13934)] <br>
+Kai Yang, Jan Ackermann, **Zhenyu He**, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang
+
 Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation, arXiv 2024 [[paper](https://arxiv.org/abs/2401.16421)] <br>
 **Zhenyu He**\*, Guhao Feng\*, Shengjie Luo\*, Kai Yang, Di He, Jingjing Xu, Zhi Zhang, Hongxia Yang, Liwei Wang
 

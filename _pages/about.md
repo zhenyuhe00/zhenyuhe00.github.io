@@ -39,7 +39,7 @@ Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng So
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="images/pku.png" /></dt><dt> Peking University</dt>
 <dd>Sep. 2023 - Now</dd>
-<dd>PhD candidate, School of Intelligence Science and Technology</dd></dl>
+<dd>PhD candidate, School of Artificial Intelligence</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="images/uestc.jpeg" /></dt><dt> University of Electronic Science and Technology of China</dt>
 <dd>Sep. 2019 - Jun. 2023</dd>

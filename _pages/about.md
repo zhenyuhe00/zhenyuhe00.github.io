@@ -15,7 +15,7 @@ I am a first-year PhD student at Peking University advised by incredible Prof.[D
 ## Publication
 
 REST: Retrieval-Based Speculative Decoding, **NAACL 2024** [[paper](https://arxiv.org/abs/2311.08252)] [[code](https://github.com/FasterDecoding/REST)] [[blog](https://sites.google.com/view/rest-llm/)] <br>
-**Zhenyu He**\*, Zexuan Zhong\*, Tianle Cai\*, Jason D Lee, Di He
+**Zhenyu He**\*, Zexuan Zhong\*, Tianle Cai\*, Jason D. Lee, Di He
 
 Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models, **ICLR 2023 MLDD workshop**, [[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)] <br>
 Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Guolin Ke, Linfeng Zhang

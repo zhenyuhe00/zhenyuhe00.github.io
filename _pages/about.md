@@ -26,7 +26,7 @@ Rumor Detection on Social Media with Event Augmentations, **SIGIR 2021**(short) 
 Do Efficient Transformers Really Save Computation?, arXiv 2024 [[paper](https://arxiv.org/abs/2402.13934)] <br>
 Kai Yang, Jan Ackermann, **Zhenyu He**, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang
 
-Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation, arXiv 2024 [[paper](https://arxiv.org/abs/2401.16421)] <br>
+Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation, arXiv 2024 [[paper](https://arxiv.org/abs/2401.16421)] [[code](https://github.com/zhenyuhe00/BiPE)] <br>
 **Zhenyu He**\*, Guhao Feng\*, Shengjie Luo\*, Kai Yang, Di He, Jingjing Xu, Zhi Zhang, Hongxia Yang, Liwei Wang
 
 Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models, arXiv 2023 [[paper](https://arxiv.org/abs/2308.14149)] <br>

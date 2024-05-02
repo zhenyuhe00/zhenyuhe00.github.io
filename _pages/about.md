@@ -13,6 +13,11 @@ I am a first-year PhD student at Peking University advised by incredible Prof.[D
 
 
 ## Publication
+Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation, **ICML 2024** [[paper](https://arxiv.org/abs/2401.16421)] [[code](https://github.com/zhenyuhe00/BiPE)] <br>
+**Zhenyu He**\*, Guhao Feng\*, Shengjie Luo\*, Kai Yang, Di He, Jingjing Xu, Zhi Zhang, Hongxia Yang, Liwei Wang
+
+Do Efficient Transformers Really Save Computation?, **ICML 2024** [[paper](https://arxiv.org/abs/2402.13934)] <br>
+Kai Yang, Jan Ackermann, **Zhenyu He**, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang
 
 REST: Retrieval-Based Speculative Decoding, **NAACL 2024** [[paper](https://arxiv.org/abs/2311.08252)] [[code](https://github.com/FasterDecoding/REST)] [[blog](https://sites.google.com/view/rest-llm/)] <br>
 **Zhenyu He**\*, Zexuan Zhong\*, Tianle Cai\*, Jason D. Lee, Di He
@@ -23,12 +28,6 @@ Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Guolin Ke, Linfeng Zhang
 Rumor Detection on Social Media with Event Augmentations, **SIGIR 2021**(short) [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463001)]  [[code](https://github.com/hzy-hzy/RDEA)] <br>
 **Zhenyu He**\*, Ce Li\*, Fan Zhou, Yi Yang
 ## Preprint
-Do Efficient Transformers Really Save Computation?, arXiv 2024 [[paper](https://arxiv.org/abs/2402.13934)] <br>
-Kai Yang, Jan Ackermann, **Zhenyu He**, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang
-
-Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation, arXiv 2024 [[paper](https://arxiv.org/abs/2401.16421)] [[code](https://github.com/zhenyuhe00/BiPE)] <br>
-**Zhenyu He**\*, Guhao Feng\*, Shengjie Luo\*, Kai Yang, Di He, Jingjing Xu, Zhi Zhang, Hongxia Yang, Liwei Wang
-
 Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models, arXiv 2023 [[paper](https://arxiv.org/abs/2308.14149)] <br>
 Kaiyuan Gao\*, Sunan He\*, **Zhenyu He**\*, Jiacheng Lin\*, Qizhi Pei\*, Jie Shao\*, Wei Zhang\*
 

@@ -14,7 +14,7 @@ I am a first-year PhD student at Peking University advised by incredible Prof.[D
 
 ## Publication
 Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation, **ICML 2024** [[paper](https://arxiv.org/abs/2401.16421)] [[code](https://github.com/zhenyuhe00/BiPE)] <br>
-**Zhenyu He**\*, Guhao Feng\*, Shengjie Luo\*, Kai Yang, Di He, Jingjing Xu, Zhi Zhang, Hongxia Yang, Liwei Wang
+**Zhenyu He**\*, Guhao Feng\*, Shengjie Luo\*, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He
 
 Do Efficient Transformers Really Save Computation?, **ICML 2024** [[paper](https://arxiv.org/abs/2402.13934)] <br>
 Kai Yang, Jan Ackermann, **Zhenyu He**, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang

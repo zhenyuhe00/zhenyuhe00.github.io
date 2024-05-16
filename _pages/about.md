@@ -19,7 +19,7 @@ Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapola
 Do Efficient Transformers Really Save Computation?, **ICML 2024** [[paper](https://arxiv.org/abs/2402.13934)] <br>
 Kai Yang, Jan Ackermann, **Zhenyu He**, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang
 
-REST: Retrieval-Based Speculative Decoding, **NAACL 2024** [[paper](https://arxiv.org/abs/2311.08252)] [[code](https://github.com/FasterDecoding/REST)] [[blog](https://sites.google.com/view/rest-llm/)] <br>
+REST: Retrieval-Based Speculative Decoding, **NAACL 2024** [[paper](https://arxiv.org/abs/2311.08252)] [[code](https://github.com/FasterDecoding/REST)] [[blog](https://sites.google.com/view/rest-llm/)] [[paperweekly](https://mp.weixin.qq.com/s/6Zt_tg4N_uNFEtrLdzEOVw)] <br>
 **Zhenyu He**\*, Zexuan Zhong\*, Tianle Cai\*, Jason D. Lee, Di He
 
 Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models, **ICLR 2023 MLDD workshop**, [[paper](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)] [[code](https://github.com/dptech-corp/Uni-Fold/tree/MuSSe)] <br>

@@ -46,5 +46,5 @@ Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng So
 <dd>GPA: 91+/100 </dd></dl>
 
 ## Professional Services
-Reviewer for ICML 2024, COLM 2024.
+Reviewer for ICML 2024, COLM 2024, NeurIPS 2024.
 

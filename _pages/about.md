@@ -13,6 +13,9 @@ I am a first-year PhD student at Peking University advised by incredible Prof.[D
 
 
 ## Publication
+Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors, **CIKM 2024** [[paper](https://arxiv.org/abs/2407.15202)] <br>
+Qizhi Pei, Lijun Wu, **Zhenyu He**, Jinhua Zhu, Yingce Xia, Shufang Xie, Rui Yan
+
 Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation, **ICML 2024** [[paper](https://arxiv.org/abs/2401.16421)] [[code](https://github.com/zhenyuhe00/BiPE)] [[paperweekly](https://mp.weixin.qq.com/s/9Ibi4CNcvEcjRRJwyIAmwg)] <br>
 **Zhenyu He**\*, Guhao Feng\*, Shengjie Luo\*, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He
 

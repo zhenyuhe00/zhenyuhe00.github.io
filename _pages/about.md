@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a first-year PhD student at Peking University advised by incredible Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. Currently, I'm a research intern at ByteDance with [Jingjing Xu](https://scholar.google.com/citations?user=8HZzDSwAAAAJ&hl=zh-CN). I've also interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
+I am a second-year PhD student at Peking University advised by incredible Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. Currently, I'm a research intern at ByteDance with [Jingjing Xu](https://scholar.google.com/citations?user=8HZzDSwAAAAJ&hl=zh-CN). I've also interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
 
 
 ## Publication
@@ -44,7 +44,7 @@ Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng So
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="images/pku.png" /></dt><dt> Peking University</dt>
 <dd>Sep. 2023 - Now</dd>
-<dd>PhD candidate, School of Artificial Intelligence</dd></dl>
+<dd>PhD student, School of Artificial Intelligence</dd></dl>
 
 <dl><dt><img align="left" width="80" height="80" hspace="10" src="images/uestc.jpeg" /></dt><dt> University of Electronic Science and Technology of China</dt>
 <dd>Sep. 2019 - Jun. 2023</dd>

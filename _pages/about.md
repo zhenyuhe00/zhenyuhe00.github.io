@@ -51,6 +51,10 @@ Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng So
 <dd>B.E. in Software Engineering</dd>
 <dd>GPA: 91+/100 </dd></dl>
 
+## Awards
+
+Peking University Presidential Scholarship (the highest doctoral research honor at Peking University)
+
 ## Professional Services
 Reviewer for ICML 2024, COLM 2024, NeurIPS 2024.
 

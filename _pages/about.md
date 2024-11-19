@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a second-year PhD student at Peking University advised by incredible Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. Currently, I'm a research intern at ByteDance with [Jingjing Xu](https://scholar.google.com/citations?user=8HZzDSwAAAAJ&hl=zh-CN). I've also interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
+I am a second-year PhD student at Peking University advised by incredible Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. Currently, I'm a research intern at ByteDance Doubao (Seed) with [Jingjing Xu](https://scholar.google.com/citations?user=8HZzDSwAAAAJ&hl=zh-CN). I've also interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
 
 
 ## Publication

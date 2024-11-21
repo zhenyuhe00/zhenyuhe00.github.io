@@ -56,5 +56,5 @@ Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng So
 Peking University Presidential Scholarship (the highest doctoral research honor at Peking University)
 
 ## Professional Services
-Reviewer for ICML 2024, COLM 2024, NeurIPS 2024.
+Reviewer for ICML 2024, COLM 2024, NeurIPS 2024, ICLR 2025.
 

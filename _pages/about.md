@@ -13,6 +13,9 @@ I am a second-year PhD student at Peking University advised by incredible Prof.[
 
 
 ## Publication
+Let the Code LLM Edit Itself When You Edit the Code, **ICLR 2025** [[paper](https://arxiv.org/abs/2407.03157)] [code will release soon]<br>
+**Zhenyu He**, Jun Zhang, Shengjie Luo, Jingjing Xu, Zhi Zhang, Di He
+
 Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors, **CIKM 2024** [[paper](https://arxiv.org/abs/2407.15202)] <br>
 Qizhi Pei, Lijun Wu, **Zhenyu He**, Jinhua Zhu, Yingce Xia, Shufang Xie, Rui Yan
 
@@ -31,8 +34,6 @@ Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Guolin Ke, Linfeng Zhang
 Rumor Detection on Social Media with Event Augmentations, **SIGIR 2021**(short) [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463001)]  [[code](https://github.com/hzy-hzy/RDEA)] <br>
 **Zhenyu He**\*, Ce Li\*, Fan Zhou, Yi Yang
 ## Preprint
-Let the Code LLM Edit Itself When You Edit the Code, arXiv 2024 [[paper](https://arxiv.org/abs/2407.03157)] <br>
-**Zhenyu He**, Jun Zhang, Shengjie Luo, Jingjing Xu, Zhi Zhang, Di He
 
 Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models, arXiv 2023 [[paper](https://arxiv.org/abs/2308.14149)] <br>
 Kaiyuan Gao\*, Sunan He\*, **Zhenyu He**\*, Jiacheng Lin\*, Qizhi Pei\*, Jie Shao\*, Wei Zhang\*

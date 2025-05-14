@@ -13,7 +13,7 @@ I am a second-year PhD student at Peking University advised by incredible Prof.[
 
 
 ## Publication
-Let the Code LLM Edit Itself When You Edit the Code, **ICLR 2025** [[paper](https://arxiv.org/abs/2407.03157)] [code will release soon]<br>
+Let the Code LLM Edit Itself When You Edit the Code, **ICLR 2025** [[paper](https://arxiv.org/abs/2407.03157)] [[code](https://github.com/zhenyuhe00/PIE)]<br>
 **Zhenyu He**, Jun Zhang, Shengjie Luo, Jingjing Xu, Zhi Zhang, Di He
 
 Exploiting Pre-trained Models for Drug Target Affinity Prediction with Nearest Neighbors, **CIKM 2024** [[paper](https://arxiv.org/abs/2407.15202)] <br>

@@ -11,6 +11,9 @@ redirect_from:
 
 I am a second-year PhD student at Peking University advised by incredible Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. Currently, I'm a research intern at ByteDance Doubao (Seed) with [Jingjing Xu](https://scholar.google.com/citations?user=8HZzDSwAAAAJ&hl=zh-CN). I've also interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
 
+## News
+We've released SWE-Swiss, a 32B open-weight model that achieves top-tier performance on SWE-bench Verified. [[Notion](https://www.notion.so/SWE-Swiss-A-Multi-Task-Fine-Tuning-and-RL-Recipe-for-High-Performance-Issue-Resolution-21e174dedd4880ea829ed4c861c44f88#245174dedd488067a9e7eea04315dad5)] [[code](https://github.com/zhenyuhe00/SWE-Swiss)]<br>
+
 
 ## Publication
 Let the Code LLM Edit Itself When You Edit the Code, **ICLR 2025** [[paper](https://arxiv.org/abs/2407.03157)] [[code](https://github.com/zhenyuhe00/PIE)]<br>

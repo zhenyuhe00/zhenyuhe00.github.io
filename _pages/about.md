@@ -9,10 +9,12 @@ redirect_from:
 ---
 # About me
 
-I am a second-year PhD student at Peking University advised by incredible Prof.[Di He](https://dihe-pku.github.io/). I'm interested in deep learning and its application to NLP and AI4science. Currently, I'm a research intern at ByteDance Doubao (Seed) with [Jingjing Xu](https://scholar.google.com/citations?user=8HZzDSwAAAAJ&hl=zh-CN). I've also interned at MSRA with [Lijun Wu](https://apeterswu.github.io/) and DP Technology with [Guolin Ke](https://guolinke.github.io/).
+I am a third-year PhD student at Peking University advised by incredible Prof.[Di He](https://dihe-pku.github.io/).
 
-## News
-We've released SWE-Swiss, a 32B open-weight model that achieves top-tier performance on SWE-bench Verified. [[Notion](https://www.notion.so/SWE-Swiss-A-Multi-Task-Fine-Tuning-and-RL-Recipe-for-High-Performance-Issue-Resolution-21e174dedd4880ea829ed4c861c44f88#245174dedd488067a9e7eea04315dad5)] [[code](https://github.com/zhenyuhe00/SWE-Swiss)]<br>
+## Recent Focus
+I recently focused on enhancing the coding agent capabilities of LLMs. Selected work:
+1. Led the development of SWE-Swiss, a 32B open-weight model that achieves top-tier performance on SWE-bench Verified. [[Notion](https://www.notion.so/SWE-Swiss-A-Multi-Task-Fine-Tuning-and-RL-Recipe-for-High-Performance-Issue-Resolution-21e174dedd4880ea829ed4c861c44f88#245174dedd488067a9e7eea04315dad5)] [[code](https://github.com/zhenyuhe00/SWE-Swiss)]
+2. Contribute to Doubao Seed Code and Seed 1.8.
 
 
 ## Publication
@@ -36,29 +38,15 @@ Jinhua Zhu\*, **Zhenyu He**\*, Ziyao Li, Guolin Ke, Linfeng Zhang
 
 Rumor Detection on Social Media with Event Augmentations, **SIGIR 2021**(short) [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3463001)]  [[code](https://github.com/hzy-hzy/RDEA)] <br>
 **Zhenyu He**\*, Ce Li\*, Fan Zhou, Yi Yang
-## Preprint
-
-Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models, arXiv 2023 [[paper](https://arxiv.org/abs/2308.14149)] <br>
-Kaiyuan Gao\*, Sunan He\*, **Zhenyu He**\*, Jiacheng Lin\*, Qizhi Pei\*, Jie Shao\*, Wei Zhang\*
-
-Two-Stage Neural Contextual Bandits for Personalised News Recommendation, arXiv 2022 [[paper](https://arxiv.org/abs/2206.14648)] <br>
-Mengyan Zhang, Thanh Nguyen-Tang, Fangzhao Wu, **Zhenyu He**, Xing Xie, Cheng Soon Ong
-
-## Education Experience
-
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="images/pku.png" /></dt><dt> Peking University</dt>
-<dd>Sep. 2023 - Now</dd>
-<dd>PhD student, School of Artificial Intelligence</dd></dl>
-
-<dl><dt><img align="left" width="80" height="80" hspace="10" src="images/uestc.jpeg" /></dt><dt> University of Electronic Science and Technology of China</dt>
-<dd>Sep. 2019 - Jun. 2023</dd>
-<dd>B.E. in Software Engineering</dd>
-<dd>GPA: 91+/100 </dd></dl>
 
 ## Awards
 
-Peking University Presidential Scholarship (the highest doctoral research honor at Peking University)
+2023-2024: Presidential Scholarship (the highest doctoral research honor at Peking University)
 
 ## Professional Services
-Reviewer for ICML 2024, COLM 2024, NeurIPS 2024, ICLR 2025.
+Reviewer for  
+ICML 2024, 2025, 2026   
+NeurIPS 2024, 2025  
+ICLR 2025, 2026  
+COLM 2024
 

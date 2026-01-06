@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About me
 
-I am a third-year PhD student at Peking University advised by the incredible Prof.[Di He](https://dihe-pku.github.io/). Currently, I am an intern at ByteDance Seed. I have also previously interned at Microsoft Research Asia and DP Technology.
+I am a third-year PhD student at Peking University advised by the incredible Prof.[Di He](https://dihe-pku.github.io/). Currently, I am an intern at ByteDance Seed. I have also previously interned at Microsoft Research Asia and DP Technology. I earned my bachelor's degree at UESTC.
 
 ## Recent Focus
 I recently focused on enhancing the coding agent capabilities of LLMs. Selected work:

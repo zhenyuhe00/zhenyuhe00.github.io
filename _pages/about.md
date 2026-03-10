@@ -14,7 +14,7 @@ I am a third-year PhD student at Peking University advised by the incredible Pro
 ## Recent Focus
 I recently focused on enhancing the coding agent capabilities of LLMs. Selected work:
 1. Led the development of SWE-Swiss, a 32B open-weight model that achieves top-tier performance on SWE-bench Verified. [[Notion](https://www.notion.so/SWE-Swiss-A-Multi-Task-Fine-Tuning-and-RL-Recipe-for-High-Performance-Issue-Resolution-21e174dedd4880ea829ed4c861c44f88#245174dedd488067a9e7eea04315dad5)] [[code](https://github.com/zhenyuhe00/SWE-Swiss)]
-2. Contribute to the coding ability of Seed models.
+2. Contribute to the coding ability of Seed models (e.g., Doubao Seed 2.0 Code).
 
 
 ## Publication
